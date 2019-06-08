@@ -15,6 +15,7 @@ header{
 	margin-left: 50px;
 	font-size: 22px;
 	font-weight: bold;
+	font-family: 'BPG Nino Mtavruli';
 }
 .nav-a span{
 	color: #EE4036;
@@ -35,6 +36,7 @@ header{
 	display: inline-block;
 	background-color: #F2C7CA;
 	font-size: 20px;
+	font-family: 'BPG Nino Mtavruli';
 }
 .bigbox{
 	margin-top: 22px;
@@ -52,18 +54,22 @@ header{
 	font-size: 16px;
 	width: 900px;
 	background-color: #F2C7CA;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .text2{
 	font-size: 16px;
 	width: 900px;
 	background-color: #F2C7CA;
 	margin-top: 24px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+
 }
 .text3{
 	font-size: 16px;
 	width: 900px;
 	background-color: #F2C7CA;
 	margin-top: 24px;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .article-box{
 	display: inline-block;
@@ -86,4 +92,7 @@ footer{
 	display: inline-block;
 	background-color: #3D58A6;
 	margin-left: 30px;
+}
+.box p{
+	font-family: 'BPG Nino Mtavruli';
 }

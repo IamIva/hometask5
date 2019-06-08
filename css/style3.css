@@ -15,6 +15,7 @@ header{
 	margin-left: 50px;
 	font-size: 22px;
 	font-weight: bold;
+	font-family: 'BPG Nino Mtavruli';
 }
 .nav-a span{
 	color: #EE4036;
@@ -30,14 +31,17 @@ header{
 }
 li span{
 	color: #808080;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .text{
 	font-size: 20px;
 	color: #3D58A6;
 	font-weight: bold;
+	font-family: 'BPG Nino Mtavruli';
 }
 .text1{
 	font-size: 16px;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 .map{
 	display: inline-block;
