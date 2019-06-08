@@ -1,0 +1,76 @@
+header{
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.logo img{
+	height: 30px;
+	vertical-align: middle;
+}
+.navbar{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navbar-li{
+	display: inline-block;
+	margin-left: 50px;
+	font-size: 22px;
+	font-weight: bold;
+}
+.nav-a span{
+	color: #EE4036;
+}
+.computer img{
+	width: 1169px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-right: 167px;
+}
+h3{
+	margin-left: 30px;
+	margin-top: 120px;
+	margin-bottom: 30px;
+	font-size: 24px;
+	color: #000;
+}
+h4{
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+.box{
+	display: inline-block;
+	margin-left: 30px;
+	background-color: #F2F2F2;
+}
+.boxling1{
+	display: inline-block;
+	margin-left: 63px;
+}
+.boxling1 img{
+	height: 120px;
+}
+.boxling2{
+	display: inline-block;
+	width: 355px;
+	vertical-align: top;
+	margin-left: 62px;
+	font-size: 20px;
+}
+footer{
+	margin-top: 65px;
+}
+.footer img{
+	height: 30px;
+	color: #3D58A6;
+	display: inline-block;
+	margin-left: 30px;
+}
+.divider{
+	height: 30px;
+	width: 1.5px;
+	display: inline-block;
+	background-color: #3D58A6;
+	margin-left: 30px;
+}
